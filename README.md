@@ -1,6 +1,6 @@
 # Praktikum11
 
-Repository ini dibuat untuk memenuhi tugas pertemuan 4 - Bahasa Pemrograman
+Repository ini dibuat untuk memenuhi tugas pertemuan 13 - Bahasa Pemrograman
 
 Nama : Aditya Achya Ananta Nur
 
